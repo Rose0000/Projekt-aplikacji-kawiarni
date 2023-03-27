@@ -1,0 +1,13 @@
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\bin\Debug\miniprojekto.exe.config
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\bin\Debug\miniprojekto.exe
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\bin\Debug\miniprojekto.pdb
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.csproj.AssemblyReference.cache
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.csproj.SuggestedBindingRedirects.cache
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.Form1.resources
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.Properties.Resources.resources
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.csproj.GenerateResource.cache
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.csproj.CoreCompileInputs.cache
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.exe
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.pdb
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.Form2.resources
+C:\Users\zuzan\source\repos\miniprojekto\miniprojekto\obj\Debug\miniprojekto.Form3.resources
